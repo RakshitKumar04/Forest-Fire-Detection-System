@@ -26,7 +26,7 @@ The camera turns on only when any two sensor raises a high alert to reduce power
 
 ## Runing the project
   - **GOOGLE APPSCRIPT**
-    - Start Scripting -> New Project -> Copy& paste the /ESP32cam.json -> Save -> Publish -> Deploy as web app.
+    - Start Scripting -> New Project -> Copy & paste the ESP32cam.json -> Save -> Publish -> Deploy as web app.
   - **ARDUINO IDE**
     - Copy the script URL and replace it with the myScript URL.
     - Change the ssid and password.
