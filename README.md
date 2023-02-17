@@ -17,7 +17,7 @@ This project uses IoT sensors and a deep learning algorithm (CNN) to detect and 
 
 ## Working
   We have used three sensors, a **Temperature and Humidity sensor**, an **Infrared sensor** and a **Smoke sensor**. If any two raise an alert the camera turns on, sending the pics to google drive through a google app script. The google app script is what connects the Arduino and google drive where we run our deep learning algorithm (CNN). 
-The hardware code is written in Arduino. We have decided to turn on the camera only when any two sensor raises a high alert to reduce power consumption. We are also running CNN on the pictures uploaded by the camera, when CNN confirms the fire only then the buzzer runs alerting the respected authorities.
+The camera turns on only when any two sensor raises a high alert to reduce power consumption. We are also running CNN on the pictures uploaded by the camera, when CNN confirms the fire only then the buzzer runs alerting the respected authorities.
 
 ## Pre-requisites
   - Install the latest version of python.
