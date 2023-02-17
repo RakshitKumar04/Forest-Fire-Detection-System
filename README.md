@@ -25,14 +25,14 @@ The hardware code is written in Arduino. We have decided to turn on the camera o
   - Create google account.
 
 ## Runing the project
-  - ** GOOGLE APPSCRIPT **
+  - **GOOGLE APPSCRIPT**
     - Start Scripting -> New Project -> Copy& paste the /ESP32cam.json -> Save -> Publish -> Deploy as web app.
-  - ** ARDUINO IDE **
+  - **ARDUINO IDE**
     - Copy the script URL and replace it with the myScript URL.
     - Change the ssid and password.
     - Select the board -> Upload the code
-  - ** GOOGLE DRIVE **
+  - **GOOGLE DRIVE**
     - After the fire get detected by the sensors the images will be uplaoded to the drive.
-  - ** GOOGLE COLAB **
+  - **GOOGLE COLAB**
     - Run the CNN on the uploaded images to confirm the fire.
  
