@@ -24,6 +24,10 @@ The camera turns on only when any two sensor raises a high alert to reduce power
   - Install all the libraries require by the Aduino Code.
   - Create google account.
 
+## Screenshot 
+![Screenshot 2023-02-19 105015](https://user-images.githubusercontent.com/72027411/219924560-1e26a166-494d-4f24-81fa-44ac9be7ce5b.png)
+
+
 ## Runing the project
   - **GOOGLE APPSCRIPT**
     - Start Scripting -> New Project -> Copy & paste the ESP32cam.json -> Save -> Publish -> Deploy as web app.
